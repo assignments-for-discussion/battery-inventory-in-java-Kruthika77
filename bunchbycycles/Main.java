@@ -12,7 +12,7 @@ public class Main {
     for(int i: cycles)
     {
       if(i<410)
-        count.lowCount++;
+        counts.lowCount++;
       else if(i>=410 && i<=949)
         counts.mediumCount++;
       else 
